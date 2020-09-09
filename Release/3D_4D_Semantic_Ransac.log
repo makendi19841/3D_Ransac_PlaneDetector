@@ -1,0 +1,8 @@
+﻿  Main.cpp
+c:\users\amos\documents\visual studio 2017\projects\3d_4d_semantic_ransac\3d_4d_semantic_ransac\geom\plane3.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating code
+  2 of 412 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  3D_4D_Semantic_Ransac.vcxproj -> C:\Users\Amos\Documents\Visual Studio 2017\Projects\3D_4D_Semantic_Ransac\Release\3D_4D_Semantic_Ransac.exe
